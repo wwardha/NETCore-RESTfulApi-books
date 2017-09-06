@@ -30,6 +30,12 @@ You need to install the following items in your machine:
 5. Build project by using <b>dotnet build</b>.
 6. Start the application with <b>dotnet run</b> and Books API will be available on http://localhost/5000.
 
+## Sample command
+
+Using Postman, you can access several following API endpoints:
+* <b>GET</b> http://localhost:5000/api/authors
+
+
 ## Technologies
 
 * NET Core 2.0
