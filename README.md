@@ -16,21 +16,19 @@ You need to install the following items in your machine:
 
 ## Installation
 
-a. Clone or download this repository.<br />
+1. Clone or download this repository.<br />
    <b>git clone https://github.com/wwardha/NETCore-RESTfulApi-books.git</b>
-b. Open <b>NETCore-RESTfulApi-books</b> folder with Visual Studio Code.
-c. Add new file appsettings.json in root folder and paste the following code:
-   <br />
-   <i>
+2. Open <b>NETCore-RESTfulApi-books</b> folder with Visual Studio Code.
+3. Add new file appsettings.json in root folder and paste the following code:
+   <br /><i>
    {<br/>
         "connectionStrings": {<br/>
             "libraryDBConnectionString": "Server=localhost;Database=LibraryDB;User Id=[Your SQL User Id]; Password=[Your SQL Server Password]"<br/>
         }<br/>
-   }<br/>
-   </i>
-d. Install dependencies with <b>dotnet restore</b>. 
-e. Build project by using <b>dotnet build</b>
-f. Start the application with <b>dotnet run</b> and Books API will be available on http://localhost/5000
+   }</i><br/>
+4. Install dependencies with <b>dotnet restore</b>. 
+5. Build project by using <b>dotnet build</b>
+6. Start the application with <b>dotnet run</b> and Books API will be available on http://localhost/5000
 
 ## Technologies
 
