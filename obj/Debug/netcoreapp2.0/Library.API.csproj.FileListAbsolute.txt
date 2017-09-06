@@ -20,3 +20,14 @@ C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-buildin
 /Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.AssemblyInfo.cs
 /Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.dll
 /Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.pdb
+C:\Projects\NETCore\NETCore-RESTfulApi-books\bin\Debug\netcoreapp2.0\Library.API.deps.json
+C:\Projects\NETCore\NETCore-RESTfulApi-books\bin\Debug\netcoreapp2.0\Library.API.runtimeconfig.json
+C:\Projects\NETCore\NETCore-RESTfulApi-books\bin\Debug\netcoreapp2.0\Library.API.runtimeconfig.dev.json
+C:\Projects\NETCore\NETCore-RESTfulApi-books\bin\Debug\netcoreapp2.0\Library.API.dll
+C:\Projects\NETCore\NETCore-RESTfulApi-books\bin\Debug\netcoreapp2.0\Library.API.pdb
+C:\Projects\NETCore\NETCore-RESTfulApi-books\obj\Debug\netcoreapp2.0\Library.API.csprojResolveAssemblyReference.cache
+C:\Projects\NETCore\NETCore-RESTfulApi-books\obj\Debug\netcoreapp2.0\Library.API.csproj.CoreCompileInputs.cache
+C:\Projects\NETCore\NETCore-RESTfulApi-books\obj\Debug\netcoreapp2.0\Library.API.AssemblyInfoInputs.cache
+C:\Projects\NETCore\NETCore-RESTfulApi-books\obj\Debug\netcoreapp2.0\Library.API.AssemblyInfo.cs
+C:\Projects\NETCore\NETCore-RESTfulApi-books\obj\Debug\netcoreapp2.0\Library.API.dll
+C:\Projects\NETCore\NETCore-RESTfulApi-books\obj\Debug\netcoreapp2.0\Library.API.pdb
