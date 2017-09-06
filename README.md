@@ -27,8 +27,8 @@ You need to install the following items in your machine:
         }<br/>
    }</i><br/>
 4. Install dependencies with <b>dotnet restore</b>. 
-5. Build project by using <b>dotnet build</b>
-6. Start the application with <b>dotnet run</b> and Books API will be available on http://localhost/5000
+5. Build project by using <b>dotnet build</b>.
+6. Start the application with <b>dotnet run</b> and Books API will be available on http://localhost/5000.
 
 ## Technologies
 
