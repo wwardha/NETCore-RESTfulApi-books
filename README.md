@@ -23,9 +23,9 @@ You need to install the following items in your machine:
    <br />
    <i>
    {<br/>
-        "connectionStrings": {<br/>
-            "libraryDBConnectionString": "Server=localhost;Database=LibraryDB;User Id=[Your SQL User Id]; Password=[Your SQL Server Password]"<br/>
-        }<br/>
+   <span padding='10px'/>"connectionStrings": {<br/>
+   <span padding='10px'/>"libraryDBConnectionString": "Server=localhost;Database=LibraryDB;User Id=[Your SQL User Id]; Password=[Your SQL Server Password]"<br/>
+   <span padding='10px'/>}<br/>
    }<br/>
    </i>
 4. Install dependencies with <b>dotnet restore</b>. 
