@@ -1,0 +1,22 @@
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/bin/Debug/netcoreapp2.0/Library.API.deps.json
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/bin/Debug/netcoreapp2.0/Library.API.runtimeconfig.json
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/bin/Debug/netcoreapp2.0/Library.API.runtimeconfig.dev.json
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/bin/Debug/netcoreapp2.0/Library.API.dll
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/bin/Debug/netcoreapp2.0/Library.API.pdb
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.csprojResolveAssemblyReference.cache
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.csproj.CoreCompileInputs.cache
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.AssemblyInfoInputs.cache
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.AssemblyInfo.cs
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.dll
+C:/Projects/Knowledge Base/NETCore/WebAPI/1-asp-dot-net-core-restful-api-building-m1-exercise-files/project-json-based/start-end/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.pdb
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/bin/Debug/netcoreapp2.0/Library.API.deps.json
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/bin/Debug/netcoreapp2.0/Library.API.runtimeconfig.json
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/bin/Debug/netcoreapp2.0/Library.API.runtimeconfig.dev.json
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/bin/Debug/netcoreapp2.0/Library.API.dll
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/bin/Debug/netcoreapp2.0/Library.API.pdb
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.csprojResolveAssemblyReference.cache
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.csproj.CoreCompileInputs.cache
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.AssemblyInfoInputs.cache
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.AssemblyInfo.cs
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.dll
+/Users/wwardha/Projects/NETCore/WebAPI/asp-dot-net-core-restful-api-building/Library/src/Library.API/obj/Debug/netcoreapp2.0/Library.API.pdb
