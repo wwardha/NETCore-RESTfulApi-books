@@ -22,11 +22,11 @@ You need to install the following items in your machine:
 3. Add new file appsettings.json in root folder and paste the following code:
    <br />
    <i>
-   {
-        "connectionStrings": {
-            "libraryDBConnectionString": "Server=localhost;Database=LibraryDB;User Id=[Your SQL User Id]; Password=[Your SQL Server Password]"
-        }
-   }
+   {<br/>
+        "connectionStrings": {<br/>
+            "libraryDBConnectionString": "Server=localhost;Database=LibraryDB;User Id=[Your SQL User Id]; Password=[Your SQL Server Password]"<br/>
+        }<br/>
+   }<br/>
    </i>
 4. Install dependencies with <b>dotnet restore</b>. 
 5. Build project by using <b>dotnet build</b>
